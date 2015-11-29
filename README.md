@@ -1,5 +1,7 @@
 # Collaborative Create-Your-Own-Adventure
 
+[![Join the chat at https://gitter.im/mels065/create-your-own-adventure](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mels065/create-your-own-adventure?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a create-your-own-adventure story where at each step, the reader chooses
 what action to take and turns to an appropriate page of the story based on their
 choice.  It is collaborative because it is written one small piece at a time by
